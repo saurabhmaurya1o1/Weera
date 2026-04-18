@@ -19,3 +19,4 @@ A smart autonomous system that uses AI to identify weeds in real time and delive
 * withTurretControl.py is program, we are using to detect and sending the coordinated to arduino.
 * turret.ino is program, we're using in arduino to receive coordinated from model, and using that coordinated arduino locks the turrent to that specfic
  coodinated and performs precise targeted spraying.
+* moisture.ino is used to detect moisture in soil, and blink designated color according to moisture level in soil.
