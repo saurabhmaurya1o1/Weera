@@ -11,3 +11,11 @@ A smart autonomous system that uses AI to identify weeds in real time and delive
 * [Yolov8]
 
 
+## Model
+* modelv1 is the Yolo Model we are using to detect and pin point weeds.
+
+## Code Explanation
+* main.py is program, we used to train the model.
+* withTurretControl.py is program, we are using to detect and sending the coordinated to arduino.
+* turret.ino is program, we're using in arduino to receive coordinated from model, and using that coordinated arduino locks the turrent to that specfic
+* coodinated and performs precise targeted sprayin.
