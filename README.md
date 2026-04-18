@@ -18,4 +18,4 @@ A smart autonomous system that uses AI to identify weeds in real time and delive
 * main.py is program, we used to train the model.
 * withTurretControl.py is program, we are using to detect and sending the coordinated to arduino.
 * turret.ino is program, we're using in arduino to receive coordinated from model, and using that coordinated arduino locks the turrent to that specfic
- coodinated and performs precise targeted sprayin.
+ coodinated and performs precise targeted spraying.
