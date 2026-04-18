@@ -11,6 +11,3 @@ A smart autonomous system that uses AI to identify weeds in real time and delive
 * [Yolov8]
 
 
-## ⚙️ How to Run It
-1. [Explain how a judge could run your code on their own machine, if applicable]
-2. [e.g., "Run `python main.py` in the terminal"]
