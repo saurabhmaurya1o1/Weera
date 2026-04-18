@@ -8,11 +8,11 @@ A smart autonomous system that uses AI to identify weeds in real time and delive
 * **Dataset used for training the model: ** [https://www.kaggle.com/datasets/sayalis069/mh-weed16]
 
 ## 🛠️ Built With
-* [Yolov8]
+* Yolov8
 
 
 ## Model
-* modelv1 is the Yolo Model we are using to detect and pin point weeds.
+* modelv1 is folder containing the Yolo Model we are using to detect and pin point weeds, and model performace and related statistics.
 
 ## Code Explanation
 * main.py is program, we used to train the model.
