@@ -22,4 +22,4 @@ A smart autonomous system that uses AI to identify weeds in real time and delive
 * moisture.ino is used to detect moisture in soil, and blink designated color according to moisture level in soil.
 
 ## How to run
-Change the path of Model in withTurretControl.py to the path of best.pt in modelv1 file.
+Change the path of Model in withTurretControl.py to the path of best.pt in modelv1/weights file, downloaded in your system.
