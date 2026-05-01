@@ -6,6 +6,7 @@ A smart autonomous system that uses AI to identify weeds in real time and delive
 ## 🔗 Important Links
 * **Presentation Deck:** [https://1drv.ms/p/c/D0A1682B3241637B/IQDNzbnJ7zDbTb1Ad9LURQOkAZpsT3Q6sLZqpCfHKnORUgM?e=bnsp3m]
 * **Dataset used for training the model:** [https://www.kaggle.com/datasets/sayalis069/mh-weed16]
+*  **LinkedIn Post:** [https://www.linkedin.com/posts/saurabhmaurya1o1_agtech-ai-yolov8-ugcPost-7455924000695816192-FXCq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_CQx4B7hDKrw2daUGJ7PMLvn5Kq-m1k1E]
 
 ## 🛠️ Built With
 * Yolov8
